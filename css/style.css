@@ -1,0 +1,76 @@
+body{
+    background: #f4f4f4;
+}
+
+#general{
+    background: #e74c3c !important;
+    color: #fff !important;
+}
+
+/* header */
+#header {
+    background: #333333;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+}
+
+/* Breadcrumb */
+.breadcrumb{
+    background: #cccccc !important;
+    color: #333333 !important;
+}
+
+.breadcrumb li{
+    color: #333333 !important;
+}
+
+.breadcrumb-custom{
+    /* outline: none; */
+    border-color: white;
+    background: #e74c3c !important;
+}
+
+/* Progress bars */
+.progress-bar{
+    background: #333333 !important;
+    color: #fff !important;
+}
+
+/* Card */
+.card-title{
+    padding: 5px 0;
+    margin-left: 10px;
+}
+
+.custom-card{
+    background-color: lightgray !important;
+    width: 150px;
+    height: 150px;
+    padding: 20px 0;
+    text-align: center;
+    vertical-align: center;
+    margin-top: 10px;
+}
+
+/* Table */
+
+
+/* Modal transition */
+/* this isnt working */
+.modal-transition{
+    transition: 1s ease-in-out !important;
+}
+
+
+/* Footer */
+#footer{
+    background: #333333;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+    font-weight: bolder;
+    position: static;
+}
